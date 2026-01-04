@@ -76,9 +76,6 @@ The CSV file (`data/data.csv`) must include at least the following columns:
 ```bash
 pip install -r requirements.txt
 
-Run the Script
-
-```bash
 python src/main.py
 
 
